@@ -1,0 +1,1 @@
+petit document pour l'exercice de Git.
