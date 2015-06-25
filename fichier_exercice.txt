@@ -1,1 +1,2 @@
 petit document pour l'exercice de Git.
+je vais faire mon possible pour organiser mon travil avec Git dès le début pour prendre des bonnes habitudes!
