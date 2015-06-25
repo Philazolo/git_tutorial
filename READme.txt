@@ -12,7 +12,7 @@ En effet, un projet de developpement est quasi synonyme d'une quantité de donn�
 Git permet donc de savoir qui a fait quoi sur le projet, quand et surtout pourquoi.
 Git donne la possibilité de voyager dans le temps de son projet, de revenir au temps de sa création jusqu'à la dernière modification en date déclarée et renseignée.
 l'historique est constituté d'une série de billets auxquels sont associés des id uniques. Ces billets sont le compte rendu de la modification apporté au projet après avoir travailler dessus.
-C'est un système en local que tu peux partager online via Le GitHub pour tenir tes collaborateurs au fait de tes avancées et toi des leur sur votre ou vos projets communs.
+C'est un système en local que tu peux partager online via GitHub.com pour tenir tes collaborateurs et peut etre le toi meme du futur au fait de tes avancées et toi des leur sur votre ou vos projets communs.
 
 Il est somme toute question de sécuriser l'existance de son contenu, et de le partager pour contribution ou non. C'est une sauvegarde et un archivage de l'historique très puissant de par sa précision et sa simplicité.
 Il faudra en revanche etre aussi serieux que son projet et ses collaborateurs, c'est à dire mettre à jour son dernier travail de manière décement fréquente pour éviter peut être à des tiers ou vous-meme de travailler pour rien!
